@@ -1,19 +1,34 @@
 # Processes & Workflows
 
+> Owner: [[Livio]] | Plattform: [[TeleTrade/CRM-Flows|TeleTrade CRM]] | Produkte: [[EasySignals/Products|Products]]
+
+---
+
 ## Signal Generation
-1. Livio analyzes XAU/USD daily
-2. Creates 2-3 high-probability trades
-3. Posts to Telegram/WhatsApp
-4. LAT System auto-executes
+1. [[Livio]] analysiert XAU/USD täglich
+2. Erstellt 2–3 High-Probability Trades
+3. Postet in Telegram/WhatsApp
+4. LAT System auto-executed → [[EasySignals/Products#2. LAT System|LAT]]
 
 ## Passing Service Flow
-1. Client books challenge
-2. Livio executes trades
-3. Challenge completed within 48h
-4. Funds transferred to client account
+1. Kunde bucht Challenge → [[SOPs/Sales|Sales SOP]]
+2. [[Livio]] executed Trades
+3. Challenge abgeschlossen <48h
+4. Funds auf Client Account transferiert
+5. Abschluss dokumentiert → [[TeleTrade/CRM-Flows|CRM]]
+
+## LTI Traffic Flow
+```
+Ads → Telegram Channel → [[TeleTrade/CRM-Flows|CRM]] → [[Lencjs|Closer]] → Deposit → [[Subaffiliates/LTI-Partnership|15% Rev Share]]
+```
 
 ## Content Calendar
-- Daily: 1-2 market analysis posts
-- 3x/week: Educational content
-- 2x/week: Case studies/testimonials
-- 1x/week: Community updates
+- Daily: 1-2 Marktanalysen
+- 3x/Woche: Educational Content
+- 2x/Woche: Case Studies / Testimonials
+- 1x/Woche: Community Updates
+
+---
+
+## Tags
+#processes #workflows #easysignals #signals

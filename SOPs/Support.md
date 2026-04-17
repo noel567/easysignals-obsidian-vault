@@ -1,18 +1,27 @@
 # Support SOPs
 
-## Ticket Categories
-- Technical Issues
-- Account Problems
-- Trading Questions
-- Billing & Refunds
+> Owner: [[Tim]] | Eskalation: [[Lencjs]] → [[Noel]] | CRM: [[TeleTrade/CRM-Flows|CRM Flows]]
 
-## Escalation Path
-Level 1: General Support (Tier 1 Agent)
-Level 2: Product Specialist (Lencjs)
-Level 3: Strategy/Refund (Noel)
+---
+
+## Ticket Kategorien
+- Technical Issues → [[Mani]]
+- Account Problems → [[Tim]]
+- Trading Questions → [[Livio]]
+- Billing & Refunds → [[Lencjs]] / [[Noel]]
+
+## Eskalation
+Level 1: General Support ([[Tim]])
+Level 2: Product Specialist ([[Lencjs]])
+Level 3: Strategy / Refund ([[Noel]])
 
 ## Response Times
-- Critical: <30min
-- High: <2h
+- Critical: <30 min
+- High: <2h → [[Organization/OKRs#Objective 2: Platform Stability|OKR KR2]]
 - Medium: <24h
 - Low: <48h
+
+---
+
+## Tags
+#support #sop #tim

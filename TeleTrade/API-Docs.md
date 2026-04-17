@@ -1,18 +1,34 @@
 # TeleTrade API Documentation
 
+> Developer: [[Mani]] | CRM: [[TeleTrade/CRM-Flows|CRM Flows]] | Status: Zugang ausstehend (Noel muss freigeben)
+
+---
+
 ## Endpoints
 
 ### /api/signals
-GET - Fetch latest signals
-POST - Create new signal
+- `GET` — Aktuelle Signals abrufen → [[EasySignals/Processes#Signal Generation|Signal Flow]]
+- `POST` — Neues Signal erstellen
 
 ### /api/users
-GET - List all users
-POST - Register new user
+- `GET` — Alle User auflisten
+- `POST` — Neuen User registrieren
 
 ### /api/orders
-GET - Fetch user orders
-POST - Create new order
+- `GET` — User Orders abrufen
+- `POST` — Neue Order erstellen
 
 ## Authentication
-Bearer Token in Authorization header
+Bearer Token im Authorization Header
+
+---
+
+## Offene Tasks
+- [ ] [[Mani]] muss ClawBot als API Consumer hinzufügen
+- [ ] [[Noel]] muss Freigabe erteilen
+- [ ] Dann: TeleTrade → Notion Sync automatisieren
+
+---
+
+## Tags
+#teletrade #api #developer #mani

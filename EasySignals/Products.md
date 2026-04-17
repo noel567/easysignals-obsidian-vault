@@ -1,26 +1,46 @@
 # EasySignals Products
 
+> Verantwortlich: [[Livio]] | Strategie: [[Noel]] | Prozesse: [[EasySignals/Processes|Processes]]
+
+---
+
 ## 1. VIP Community
-- 2-3 Signals/Day
-- 70% Win Rate
+- 2-3 Signals/Day → [[EasySignals/Processes#Signal Generation|Signal Generation]]
+- 70% Win Rate (MyFXBook verifiziert)
 - Manual Copy Trade
-- Entry: $29-99/month
+- Einstieg: $29–99/month
+- Zielgruppe: Anfänger, Passive Trader
 
 ## 2. LAT System (Livio Automated Trading)
-- Auto Copy from Livio Main Account
-- No Manual Action
-- Higher Cost
-- Entry: $299/month
+- Auto Copy von Livio's Main Account
+- Kein manuelles Handeln nötig
+- Einstieg: $299/month
+- Zielgruppe: Hands-off Investoren
 
 ## 3. LPS (Livio's Passing Service)
 - Prop Firm Challenge Passing
-- $400k Funded Accounts
+- $400k funded Accounts
 - 48h Turnaround
 - Money-Back Guarantee
-- Entry: €4,999
+- Einstieg: €4,999
+- SOP: [[SOPs/Sales|Sales SOP]] → Abschluss durch [[Lencjs]]
 
 ## 4. One-on-One Coaching
-- Personal Trading Lessons
+- Persönliche Trading Lessons
 - Custom Strategy
 - Lifetime Access
-- Premium (Teuerste Option)
+- Premium (teuerste Option)
+- Closing: [[Lencjs]]
+
+---
+
+## Revenue Funnel
+```
+Lead → VIP Community → LAT / LPS → Coaching
+```
+Siehe auch: [[TeleTrade/CRM-Flows|CRM Funnel]] | [[Subaffiliates/LTI-Partnership|LTI Produkt]]
+
+---
+
+## Tags
+#products #revenue #easysignals

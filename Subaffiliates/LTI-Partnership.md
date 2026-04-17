@@ -1,5 +1,7 @@
 # LTI — Leveraged Trading Intelligence Partnership
 
+> Owner: [[Noel]] | Closer: [[Lencjs]] | CRM: [[TeleTrade/CRM-Flows|TeleTrade CRM]] | Entscheidung: [[Organization/Decisions|Decisions]]
+
 **Status:** Active Partnership
 **Revenue Model:** 15% Revenue Share (Backend, recurring)
 **Updated:** 2026-04-17
@@ -10,75 +12,63 @@
 
 Partnership mit **Leveraged Trading Intelligence (LTI)** — Anbieter für automatisiertes Trading.
 
-**Unser Role:** Hybrid aus Affiliate + Agency + Sales System
-- Traffic Source (Media Buying)
-- Funnel Builder (Telegram)
-- Revenue Partner (15% Rev Share)
+**Unsere Rolle:** Hybrid aus Affiliate + Agency + Sales System
 
 ---
 
 ## Revenue Model
-
-- **15% Revenue Share** auf gesamtes System
+- **15% Revenue Share** auf gesamtes System (recurring)
 - Einnahmen aus: Profit Share der Kunden + Deposits / IB Struktur
-- **Backend Revenue** — nicht einmalige Commission
+- **Backend Revenue** — keine einmalige Commission
 
 ---
 
 ## Unsere Verantwortlichkeiten
 
-### 1. Media Buying
+### 1. Media Buying → [[Livio]]
 - Meta / TikTok Ads
-- Traffic Generierung
-- Lead Flow kontrollieren
+- Traffic Generierung, Lead Flow
 
-### 2. Telegram Funnel
-- Channel Setup
-- Content Direction
-- Lead Flow Steuerung → maximale Conversion
+### 2. Telegram Funnel → [[EasySignals/Processes|Processes]]
+- Channel Setup + Content
+- Lead Flow → maximale Conversion
 
-### 3. Telegram CRM (TeleTrade)
-- Lead Tracking
-- Conversation Management
-- Closer Zuweisung
-- Follow-Up Struktur
-- Ersetzt klassische CRM Tools (HubSpot etc.)
+### 3. TeleTrade CRM → [[TeleTrade/CRM-Flows|CRM Flows]]
+- Lead Tracking & Conversation Management
+- Closer Zuweisung → [[Lencjs]]
+- Ersetzt HubSpot etc.
 
-### 4. Closer System
-- Closer übernehmen Leads
-- Führen Gespräche
-- Schließen Deposits
+### 4. Closer System → [[Lencjs]]
+- Leads übernehmen
+- Gespräche führen
+- Deposits schließen → [[SOPs/Sales|Sales SOP]]
 
 ---
 
 ## LTI bringt
-
-- Produkt (Trading System)
+- Trading System Produkt
 - Infrastruktur
 - Track Record
 
 ---
 
 ## End-to-End Flow
-
 ```
-Ads (wir) 
-→ Telegram Channel (Lead Sammlung)
-→ Telegram CRM (Lead Distribution)
-→ Closer (Gespräche + Deposits)
-→ Kunden (nutzen Trading System)
-→ Revenue (Profit Share / IB)
-→ Wir (15% Rev Share)
+Ads ([[Livio]])
+→ Telegram Channel
+→ [[TeleTrade/CRM-Flows|TeleTrade CRM]]
+→ [[Lencjs|Closer]]
+→ Deposit
+→ 15% Rev Share → [[Noel]]
 ```
 
 ---
 
 ## Warum stark
-
-- Paid Traffic (skalierbar)
+- Paid Traffic (skalierbar) → [[EasySignals/Learnings|Learnings]]
 - Telegram (hohe Conversion)
 - Closer (persönlicher Trust)
-- Backend Revenue (recurring Rev Share)
+- Backend Revenue (recurring)
 
 ---
 
