@@ -2,7 +2,7 @@
 
 **Rolle:** Customer Support & Retention Manager  
 **Fokus:** Kundenfragen beantworten + Wiedereinzahlungen generieren  
-**Partner:** Lencjs (Akquisition), Nett (Retention-Listen)
+**Partner:** Lencjs (Akquisition), Nat (Retention-Listen)
 
 ---
 
@@ -40,15 +40,15 @@ Wiedereinzahlungen tracken (manuell im TeleTrade Dashboard)
 
 ## 2. Retention: Wiedereinzahlungen generieren
 
-### Input: Nett's WhatsApp-Liste
-- **Nett (OneFX Affiliate Manager)** schickt dir regelmäßig (z.B. täglich/wöchentlich) eine Liste von Kunden
+### Input: Nat's WhatsApp-Liste
+- **Nat (OneFX Affiliate Manager)** schickt dir regelmäßig (z.B. täglich/wöchentlich) eine Liste von Kunden
 - Diese sind bereits akquiriert, aber haben zu lange nicht mehr eingezahlt
 - **Deine Aufgabe:** Diese Kunden kontaktieren & zur Wiedereinzahlung bewegen
 
 ### Workflow Retention
 
 **Schritt 1: Liste empfangen**
-- [ ] Nett schickt dir WhatsApp-Liste (Kundennamen)
+- [ ] Nat schickt dir WhatsApp-Liste (Kundennamen)
 
 **Schritt 2: Kunden in TeleTrade finden**
 - [ ] Namen in TeleTrade CRM Dashboard suchen
@@ -84,7 +84,7 @@ Wiedereinzahlungen tracken (manuell im TeleTrade Dashboard)
    - Letzte Aktivität: > 7 Tage ago
    - Zahlungsstatus: "Paid" (zeigt ehemalige zahlende Kunden)
 3. **Liste exportieren** (wenn möglich) oder manuell durchgehen
-4. **Nett's Liste mit dieser Liste abgleichen**
+4. **Nat's Liste mit dieser Liste abgleichen**
 
 ---
 
@@ -137,7 +137,7 @@ Wiedereinzahlungen tracken (manuell im TeleTrade Dashboard)
 
 ## 7. Wichtige Kontakte
 
-- **Nett (Natalie):** OneFX Affiliate Manager → Schickt dir Retention-Listen (WhatsApp)
+- **Nat (Natalie):** OneFX Affiliate Manager → Schickt dir Retention-Listen (WhatsApp)
 - **Mani:** Dev/Tech Support (falls Bugs)
 - **Noel:** Decisions & Strategy
 - **Lencjs:** Akquisition (falls Fragen zum Close/Deal)
