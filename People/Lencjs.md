@@ -1,15 +1,38 @@
-# Lencjs
+# Lencjs — Acquisition + Onboarding + Quality Control
 
-**Rolle:** Closer / Sales
+## 👤 Role
+- **Title:** Lead Acquisition Manager & QC Supervisor
+- **Reports to:** Noel
+- **Team:** EasySignals Growth Team
+- **Email:** lencis@easysignals.ca
+
+## 📋 Responsibilities
+- Lead acquisition via Telegram Funnel Bot
+- Close deals (sales pitch + negotiation)
+- Onboard new customers to Tim
+- Quality control for Tim's support work
+- Monitor retention metrics
+
+## 📊 Metrics
+- Leads acquired: [TBD]
+- Deal close rate: [TBD]
+- Customer onboarding time: [TBD]
+- QC score (Tim's work): [TBD]
+
+## 🔗 Key Contacts
+- **Tim:** Support team (he supports customers Lencjs closes)
+- **Nat (Natalie):** OneFX Affiliate Manager
+- **Noel:** Decision maker
+- **Livio:** Revenue oversight
+
+## 📚 Documentation
+- [[Lencjs-Akquisition-Onboarding.md]]
+- [[Lencjs-Tim-Einarbeitung.md]]
+
+## ⚡ Status
+- New workflow: Implementation ✅
+- Tim onboarding: In Progress
+- Ready for production: [Awaiting confirmation]
 
 ---
-
-## Verantwortlichkeiten
-- [[SOPs/Sales|Sales SOP]] ausführen
-- Lead Closing für [[EasySignals/Products|EasySignals]] und [[Subaffiliates/LTI-Partnership|LTI]]
-- [[TeleTrade/CRM-Flows|CRM Lead Management]]
-- Level 2 Support Eskalation → [[SOPs/Support|Support SOP]]
-
----
-
-#person #sales #closer
+**Last Updated:** 2026-04-18

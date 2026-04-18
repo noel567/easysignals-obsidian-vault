@@ -1,34 +1,56 @@
-# TeleTrade API Documentation
+# TeleTrade API — Documentation
 
-> Developer: [[Mani]] | CRM: [[TeleTrade/CRM-Flows|CRM Flows]] | Status: Zugang ausstehend (Noel muss freigeben)
-
----
-
-## Endpoints
-
-### /api/signals
-- `GET` — Aktuelle Signals abrufen → [[EasySignals/Processes#Signal Generation|Signal Flow]]
-- `POST` — Neues Signal erstellen
-
-### /api/users
-- `GET` — Alle User auflisten
-- `POST` — Neuen User registrieren
-
-### /api/orders
-- `GET` — User Orders abrufen
-- `POST` — Neue Order erstellen
-
-## Authentication
-Bearer Token im Authorization Header
+⚠️ **STATUS:** AWAITING DEPLOYMENT  
+🔴 **Blocker:** Mani needs to add ClawBot as API consumer  
+📅 **Expected:** Post-approval (TBD)
 
 ---
 
-## Offene Tasks
-- [ ] [[Mani]] muss ClawBot als API Consumer hinzufügen
-- [ ] [[Noel]] muss Freigabe erteilen
-- [ ] Dann: TeleTrade → Notion Sync automatisieren
+## 📋 API Overview
+
+**Base URL:** [TBD — awaiting Mani]  
+**Authentication:** [TBD — awaiting access]  
+**Rate Limits:** [TBD — awaiting documentation]
+
+## 🔗 Endpoints (To Be Documented)
+
+### Customers
+- `GET /api/v1/customers` — List all customers
+- `GET /api/v1/customers/:id` — Get customer detail
+- `POST /api/v1/customers` — Create customer
+- `PATCH /api/v1/customers/:id` — Update customer
+
+### Revenue
+- `GET /api/v1/revenue` — Revenue metrics
+- `GET /api/v1/revenue/daily` — Daily breakdown
+- `GET /api/v1/revenue/customer/:id` — Customer revenue
+
+### Leads
+- `GET /api/v1/leads` — Active leads
+- `POST /api/v1/leads` — Create lead
+- `PATCH /api/v1/leads/:id` — Update lead status
+
+## 🔐 Authentication
+
+[TBD — awaiting Mani]
+
+## 📊 Integration Use Cases
+
+1. **Dashboard Live Data** — Pull real-time revenue metrics
+2. **Notion Sync** — Sync customer data to Notion
+3. **Obsidian Reports** — Generate PDF reports from API data
+4. **Automation** — Trigger actions on customer events
+
+## 🚀 ClawBot Integration Plan
+
+Once API is live:
+1. Install TeleTrade API SDK
+2. Connect to Notion → auto-sync customer data
+3. Build real-time dashboard widgets
+4. Automate retention triggers
 
 ---
 
-## Tags
-#teletrade #api #developer #mani
+**Last Updated:** 2026-04-18  
+**Status:** 🔴 PENDING MANI APPROVAL  
+**Related:** [[TeleTrade.md]]
