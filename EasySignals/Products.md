@@ -44,3 +44,7 @@ Siehe auch: [[TeleTrade/CRM-Flows|CRM Funnel]] | [[Subaffiliates/LTI-Partnership
 
 ## Tags
 #products #revenue #easysignals
+
+## Related
+
+- [[People/Livio|Livio]] (relevance: 70.1%)

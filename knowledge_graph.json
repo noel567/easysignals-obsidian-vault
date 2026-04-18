@@ -1,0 +1,799 @@
+{
+  "nodes": [
+    {
+      "id": "README.md",
+      "label": "README.md",
+      "title": "README",
+      "topic": "general"
+    },
+    {
+      "id": "SOPs/Sales.md",
+      "label": "SOPs/Sales.md",
+      "title": "Sales",
+      "topic": "operations"
+    },
+    {
+      "id": "SOPs/Support-Onboarding-Guide.md",
+      "label": "SOPs/Support-Onboarding-Guide.md",
+      "title": "Support-Onboarding-Guide",
+      "topic": "operations"
+    },
+    {
+      "id": "SOPs/Operations.md",
+      "label": "SOPs/Operations.md",
+      "title": "Operations",
+      "topic": "operations"
+    },
+    {
+      "id": "SOPs/Support.md",
+      "label": "SOPs/Support.md",
+      "title": "Support",
+      "topic": "operations"
+    },
+    {
+      "id": "SOPs/Tim-Support-Retention.md",
+      "label": "SOPs/Tim-Support-Retention.md",
+      "title": "Tim-Support-Retention",
+      "topic": "operations"
+    },
+    {
+      "id": "SOPs/Lencjs-Akquisition-Onboarding.md",
+      "label": "SOPs/Lencjs-Akquisition-Onboarding.md",
+      "title": "Lencjs-Akquisition-Onboarding",
+      "topic": "operations"
+    },
+    {
+      "id": "People/Livio.md",
+      "label": "People/Livio.md",
+      "title": "Livio",
+      "topic": "team"
+    },
+    {
+      "id": "People/Noel.md",
+      "label": "People/Noel.md",
+      "title": "Noel",
+      "topic": "team"
+    },
+    {
+      "id": "People/Tim.md",
+      "label": "People/Tim.md",
+      "title": "Tim",
+      "topic": "team"
+    },
+    {
+      "id": "People/Mani.md",
+      "label": "People/Mani.md",
+      "title": "Mani",
+      "topic": "team"
+    },
+    {
+      "id": "People/Lencjs.md",
+      "label": "People/Lencjs.md",
+      "title": "Lencjs",
+      "topic": "team"
+    },
+    {
+      "id": "Daily Notes/2026-04-16.md",
+      "label": "Daily Notes/2026-04-16.md",
+      "title": "2026-04-16",
+      "topic": "daily"
+    },
+    {
+      "id": "EasySignals/Learnings.md",
+      "label": "EasySignals/Learnings.md",
+      "title": "Learnings",
+      "topic": "product"
+    },
+    {
+      "id": "EasySignals/Processes.md",
+      "label": "EasySignals/Processes.md",
+      "title": "Processes",
+      "topic": "product"
+    },
+    {
+      "id": "EasySignals/Products.md",
+      "label": "EasySignals/Products.md",
+      "title": "Products",
+      "topic": "product"
+    },
+    {
+      "id": "Subaffiliates/LTI-Partnership.md",
+      "label": "Subaffiliates/LTI-Partnership.md",
+      "title": "LTI-Partnership",
+      "topic": "partnerships"
+    },
+    {
+      "id": "TeleTrade/CRM-Flows.md",
+      "label": "TeleTrade/CRM-Flows.md",
+      "title": "CRM-Flows",
+      "topic": "platform"
+    },
+    {
+      "id": "TeleTrade/API-Docs.md",
+      "label": "TeleTrade/API-Docs.md",
+      "title": "API-Docs",
+      "topic": "platform"
+    },
+    {
+      "id": "Organization/Decisions.md",
+      "label": "Organization/Decisions.md",
+      "title": "Decisions",
+      "topic": "strategy"
+    },
+    {
+      "id": "Organization/Team.md",
+      "label": "Organization/Team.md",
+      "title": "Team",
+      "topic": "strategy"
+    },
+    {
+      "id": "Organization/OKRs.md",
+      "label": "Organization/OKRs.md",
+      "title": "OKRs",
+      "topic": "strategy"
+    }
+  ],
+  "edges": [
+    {
+      "source": "README.md",
+      "target": "Daily Notes/2026-04-16.md",
+      "weight": 0.77,
+      "type": "semantic"
+    },
+    {
+      "source": "SOPs/Sales.md",
+      "target": "SOPs/Lencjs-Akquisition-Onboarding.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Sales.md",
+      "target": "TeleTrade/CRM-Flows.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Sales.md",
+      "target": "EasySignals/Products.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Sales.md",
+      "target": "EasySignals/Learnings.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Sales.md",
+      "target": "Subaffiliates/LTI-Partnership.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Sales.md",
+      "target": "People/Noel.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Operations.md",
+      "target": "SOPs/Tim-Support-Retention.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Operations.md",
+      "target": "People/Noel.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Operations.md",
+      "target": "Organization/OKRs.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Operations.md",
+      "target": "TeleTrade/API-Docs.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Operations.md",
+      "target": "SOPs/Support-Onboarding-Guide.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Operations.md",
+      "target": "People/Livio.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Operations.md",
+      "target": "Organization/Team.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Operations.md",
+      "target": "EasySignals/Learnings.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Operations.md",
+      "target": "Organization/Decisions.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Support.md",
+      "target": "SOPs/Tim-Support-Retention.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Support.md",
+      "target": "SOPs/Lencjs-Akquisition-Onboarding.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Support.md",
+      "target": "People/Noel.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Support.md",
+      "target": "TeleTrade/CRM-Flows.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Support.md",
+      "target": "People/Mani.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "SOPs/Support.md",
+      "target": "People/Livio.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Livio.md",
+      "target": "EasySignals/Products.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Livio.md",
+      "target": "Subaffiliates/LTI-Partnership.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Livio.md",
+      "target": "EasySignals/Processes.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Noel.md",
+      "target": "Organization/OKRs.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Noel.md",
+      "target": "Subaffiliates/LTI-Partnership.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Noel.md",
+      "target": "Organization/Decisions.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Noel.md",
+      "target": "EasySignals/Products.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Noel.md",
+      "target": "TeleTrade/API-Docs.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Tim.md",
+      "target": "SOPs/Operations.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Tim.md",
+      "target": "SOPs/Support-Onboarding-Guide.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Mani.md",
+      "target": "TeleTrade/API-Docs.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Mani.md",
+      "target": "TeleTrade/CRM-Flows.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Lencjs.md",
+      "target": "SOPs/Sales.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Lencjs.md",
+      "target": "EasySignals/Products.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Lencjs.md",
+      "target": "Subaffiliates/LTI-Partnership.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Lencjs.md",
+      "target": "TeleTrade/CRM-Flows.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "People/Lencjs.md",
+      "target": "SOPs/Support-Onboarding-Guide.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Daily Notes/2026-04-16.md",
+      "target": "README.md",
+      "weight": 0.77,
+      "type": "semantic"
+    },
+    {
+      "source": "EasySignals/Learnings.md",
+      "target": "EasySignals/Products.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Learnings.md",
+      "target": "Organization/OKRs.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Learnings.md",
+      "target": "Organization/Team.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Learnings.md",
+      "target": "SOPs/Support-Onboarding-Guide.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Learnings.md",
+      "target": "People/Livio.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Learnings.md",
+      "target": "EasySignals/Processes.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Learnings.md",
+      "target": "TeleTrade/API-Docs.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Learnings.md",
+      "target": "Subaffiliates/LTI-Partnership.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Processes.md",
+      "target": "People/Livio.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Processes.md",
+      "target": "TeleTrade/CRM-Flows.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Processes.md",
+      "target": "EasySignals/Products.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Processes.md",
+      "target": "SOPs/Sales.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Processes.md",
+      "target": "SOPs/Lencjs-Akquisition-Onboarding.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Processes.md",
+      "target": "Subaffiliates/LTI-Partnership.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Products.md",
+      "target": "People/Livio.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Products.md",
+      "target": "People/Noel.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Products.md",
+      "target": "EasySignals/Processes.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Products.md",
+      "target": "SOPs/Sales.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Products.md",
+      "target": "SOPs/Lencjs-Akquisition-Onboarding.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Products.md",
+      "target": "TeleTrade/CRM-Flows.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "EasySignals/Products.md",
+      "target": "Subaffiliates/LTI-Partnership.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Subaffiliates/LTI-Partnership.md",
+      "target": "People/Noel.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Subaffiliates/LTI-Partnership.md",
+      "target": "SOPs/Lencjs-Akquisition-Onboarding.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Subaffiliates/LTI-Partnership.md",
+      "target": "TeleTrade/CRM-Flows.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Subaffiliates/LTI-Partnership.md",
+      "target": "Organization/Decisions.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Subaffiliates/LTI-Partnership.md",
+      "target": "People/Livio.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Subaffiliates/LTI-Partnership.md",
+      "target": "EasySignals/Processes.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Subaffiliates/LTI-Partnership.md",
+      "target": "SOPs/Sales.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Subaffiliates/LTI-Partnership.md",
+      "target": "EasySignals/Learnings.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "TeleTrade/CRM-Flows.md",
+      "target": "People/Mani.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "TeleTrade/CRM-Flows.md",
+      "target": "TeleTrade/API-Docs.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "TeleTrade/CRM-Flows.md",
+      "target": "SOPs/Lencjs-Akquisition-Onboarding.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "TeleTrade/CRM-Flows.md",
+      "target": "SOPs/Sales.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "TeleTrade/CRM-Flows.md",
+      "target": "Subaffiliates/LTI-Partnership.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "TeleTrade/CRM-Flows.md",
+      "target": "SOPs/Support-Onboarding-Guide.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "TeleTrade/CRM-Flows.md",
+      "target": "People/Noel.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "TeleTrade/API-Docs.md",
+      "target": "People/Mani.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "TeleTrade/API-Docs.md",
+      "target": "TeleTrade/CRM-Flows.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "TeleTrade/API-Docs.md",
+      "target": "People/Noel.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Decisions.md",
+      "target": "People/Noel.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Decisions.md",
+      "target": "Organization/OKRs.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Decisions.md",
+      "target": "Organization/Team.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Decisions.md",
+      "target": "TeleTrade/API-Docs.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Decisions.md",
+      "target": "Subaffiliates/LTI-Partnership.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "People/Noel.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "People/Livio.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "People/Mani.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "SOPs/Lencjs-Akquisition-Onboarding.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "SOPs/Tim-Support-Retention.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "Organization/OKRs.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "Subaffiliates/LTI-Partnership.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "EasySignals/Products.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "EasySignals/Processes.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "TeleTrade/API-Docs.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "TeleTrade/CRM-Flows.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "SOPs/Sales.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "SOPs/Operations.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/Team.md",
+      "target": "SOPs/Support-Onboarding-Guide.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/OKRs.md",
+      "target": "People/Noel.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/OKRs.md",
+      "target": "Organization/Team.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/OKRs.md",
+      "target": "EasySignals/Products.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/OKRs.md",
+      "target": "Subaffiliates/LTI-Partnership.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/OKRs.md",
+      "target": "People/Mani.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/OKRs.md",
+      "target": "TeleTrade/API-Docs.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/OKRs.md",
+      "target": "SOPs/Support-Onboarding-Guide.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/OKRs.md",
+      "target": "TeleTrade/CRM-Flows.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/OKRs.md",
+      "target": "SOPs/Tim-Support-Retention.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/OKRs.md",
+      "target": "SOPs/Operations.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/OKRs.md",
+      "target": "SOPs/Sales.md",
+      "weight": 1.0,
+      "type": "explicit"
+    },
+    {
+      "source": "Organization/OKRs.md",
+      "target": "Organization/Decisions.md",
+      "weight": 1.0,
+      "type": "explicit"
+    }
+  ],
+  "generated_at": "2026-04-18T03:43:20.899528"
+}
