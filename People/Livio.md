@@ -22,4 +22,4 @@
 
 ## Related
 
-- [[EasySignals/Products|Products]] (relevance: 70.1%)
+- [[EasySignals/Products|Products]] (relevance: 74.5%)
