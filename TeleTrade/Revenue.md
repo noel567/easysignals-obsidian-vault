@@ -10,4 +10,4 @@ _Source: Auto-sync from chat_
 
 ## Related
 
-- [[TeleTrade/API|API]] (relevance: 99%)
+- [[TeleTrade/API|API]] (relevance: 99.5%)

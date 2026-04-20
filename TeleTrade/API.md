@@ -10,4 +10,4 @@ _Source: Auto-sync from chat_
 
 ## Related
 
-- [[TeleTrade/Revenue|Revenue]] (relevance: 99%)
+- [[TeleTrade/Revenue|Revenue]] (relevance: 99.5%)

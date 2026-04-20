@@ -61,6 +61,12 @@
       "topic": "team"
     },
     {
+      "id": "People/Team-Status.md",
+      "label": "People/Team-Status.md",
+      "title": "Team-Status",
+      "topic": "team"
+    },
+    {
       "id": "People/Mani.md",
       "label": "People/Mani.md",
       "title": "Mani",
@@ -71,6 +77,12 @@
       "label": "People/Lencjs.md",
       "title": "Lencjs",
       "topic": "team"
+    },
+    {
+      "id": "Daily Notes/2026-04-18.md",
+      "label": "Daily Notes/2026-04-18.md",
+      "title": "2026-04-18",
+      "topic": "daily"
     },
     {
       "id": "Daily Notes/2026-04-16.md",
@@ -109,6 +121,18 @@
       "topic": "platform"
     },
     {
+      "id": "TeleTrade/Revenue.md",
+      "label": "TeleTrade/Revenue.md",
+      "title": "Revenue",
+      "topic": "platform"
+    },
+    {
+      "id": "TeleTrade/API.md",
+      "label": "TeleTrade/API.md",
+      "title": "API",
+      "topic": "platform"
+    },
+    {
       "id": "TeleTrade/API-Docs.md",
       "label": "TeleTrade/API-Docs.md",
       "title": "API-Docs",
@@ -137,8 +161,8 @@
     {
       "source": "README.md",
       "target": "Daily Notes/2026-04-16.md",
-      "weight": 0.77,
-      "type": "semantic"
+      "weight": 1.0,
+      "type": "explicit"
     },
     {
       "source": "SOPs/Sales.md",
@@ -316,13 +340,13 @@
     },
     {
       "source": "People/Tim.md",
-      "target": "SOPs/Operations.md",
+      "target": "SOPs/Support-Onboarding-Guide.md",
       "weight": 1.0,
       "type": "explicit"
     },
     {
       "source": "People/Tim.md",
-      "target": "SOPs/Support-Onboarding-Guide.md",
+      "target": "SOPs/Tim-Support-Retention.md",
       "weight": 1.0,
       "type": "explicit"
     },
@@ -340,39 +364,15 @@
     },
     {
       "source": "People/Lencjs.md",
-      "target": "SOPs/Sales.md",
-      "weight": 1.0,
-      "type": "explicit"
-    },
-    {
-      "source": "People/Lencjs.md",
-      "target": "EasySignals/Products.md",
-      "weight": 1.0,
-      "type": "explicit"
-    },
-    {
-      "source": "People/Lencjs.md",
-      "target": "Subaffiliates/LTI-Partnership.md",
-      "weight": 1.0,
-      "type": "explicit"
-    },
-    {
-      "source": "People/Lencjs.md",
-      "target": "TeleTrade/CRM-Flows.md",
-      "weight": 1.0,
-      "type": "explicit"
-    },
-    {
-      "source": "People/Lencjs.md",
-      "target": "SOPs/Support-Onboarding-Guide.md",
+      "target": "SOPs/Lencjs-Akquisition-Onboarding.md",
       "weight": 1.0,
       "type": "explicit"
     },
     {
       "source": "Daily Notes/2026-04-16.md",
       "target": "README.md",
-      "weight": 0.77,
-      "type": "semantic"
+      "weight": 1.0,
+      "type": "explicit"
     },
     {
       "source": "EasySignals/Learnings.md",
@@ -591,50 +591,26 @@
       "type": "explicit"
     },
     {
-      "source": "TeleTrade/API-Docs.md",
-      "target": "People/Mani.md",
+      "source": "TeleTrade/Revenue.md",
+      "target": "TeleTrade/API.md",
       "weight": 1.0,
       "type": "explicit"
     },
     {
-      "source": "TeleTrade/API-Docs.md",
-      "target": "TeleTrade/CRM-Flows.md",
-      "weight": 1.0,
-      "type": "explicit"
-    },
-    {
-      "source": "TeleTrade/API-Docs.md",
-      "target": "People/Noel.md",
+      "source": "TeleTrade/API.md",
+      "target": "TeleTrade/Revenue.md",
       "weight": 1.0,
       "type": "explicit"
     },
     {
       "source": "Organization/Decisions.md",
-      "target": "People/Noel.md",
+      "target": "SOPs/Lencjs-Akquisition-Onboarding.md",
       "weight": 1.0,
       "type": "explicit"
     },
     {
       "source": "Organization/Decisions.md",
-      "target": "Organization/OKRs.md",
-      "weight": 1.0,
-      "type": "explicit"
-    },
-    {
-      "source": "Organization/Decisions.md",
-      "target": "Organization/Team.md",
-      "weight": 1.0,
-      "type": "explicit"
-    },
-    {
-      "source": "Organization/Decisions.md",
-      "target": "TeleTrade/API-Docs.md",
-      "weight": 1.0,
-      "type": "explicit"
-    },
-    {
-      "source": "Organization/Decisions.md",
-      "target": "Subaffiliates/LTI-Partnership.md",
+      "target": "SOPs/Tim-Support-Retention.md",
       "weight": 1.0,
       "type": "explicit"
     },
@@ -795,5 +771,5 @@
       "type": "explicit"
     }
   ],
-  "generated_at": "2026-04-18T03:43:20.899528"
+  "generated_at": "2026-04-20T03:59:23.556567"
 }
