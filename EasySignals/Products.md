@@ -34,9 +34,20 @@
 
 ---
 
+## 5. Webinar (Educational Channel)
+- Live Online Webinar (Erster: 1. Juni 2026)
+- Präsentiert von [[People/Livio|Livio]] (Trading Authority)
+- Organisiert von [[People/Noel|Noel]]
+- Ziel: Community aktivieren + neue Leads konvertieren
+- Offer: LAT System / Coaching (Webinar-exklusiver Preis)
+- **Neuer Kanal für Community-Wachstum und Revenue-Generation**
+- Referenz: [[EasySignals/Webinar-June-2026|Webinar Juni 2026]] | [[Marketing/Fred-Frost-Campaign-Analysis|Fred Frost Taktiken]]
+
 ## Revenue Funnel
 ```
 Lead → VIP Community → LAT / LPS → Coaching
+              ↑
+         Webinar (neuer Einstiegspunkt)
 ```
 Siehe auch: [[TeleTrade/CRM-Flows|CRM Funnel]] | [[Subaffiliates/LTI-Partnership|LTI Produkt]]
 

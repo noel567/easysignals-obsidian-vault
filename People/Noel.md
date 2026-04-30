@@ -17,6 +17,12 @@
 2. [[TeleTrade/API-Docs|TeleTrade]] (Prio 2)
 3. [[Subaffiliates/LTI-Partnership|Subaffiliates/LTI]] (Prio 3)
 
+## Webinar
+- **Lead Organizer:** [[EasySignals/Webinar-June-2026|EasySignals Webinar Juni 2026]] (mit [[People/Livio|Livio]])
+- **Datum:** 1. Juni 2026, 20:00 Uhr CET
+- **Rolle:** Strategie, Email-Funnel, Offer-Design, Coordination
+- **Reference:** [[Marketing/Fred-Frost-Campaign-Analysis|Fred Frost Campaign Analysis]] als Vorlage
+
 ---
 
-#person #strategy #owner
+#person #strategy #owner #webinar

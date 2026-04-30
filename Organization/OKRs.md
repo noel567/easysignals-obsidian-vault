@@ -10,6 +10,9 @@
 - KR1: +50% Revenue YoY → [[EasySignals/Products|Products]]
 - KR2: +100% Passing Service User → [[EasySignals/Processes#Passing Service Flow|Passing Service]]
 - KR3: +3 neue Broker Deals → [[Subaffiliates/LTI-Partnership|LTI Partnership]]
+- **KR4: Launch EasySignals Webinar Campaign** → [[EasySignals/Webinar-June-2026|Webinar Juni 2026]]
+  - Ziel: 500+ Anmeldungen, 200+ Live-Attendees, €10.000+ Revenue
+  - Datum: 1. Juni 2026 | Organizer: [[People/Noel|Noel]] + [[People/Livio|Livio]]
 
 ### Objective 2: Platform Stability
 - KR1: 99.9% Uptime TeleTrade → [[Mani]] + [[TeleTrade/API-Docs|API]]
